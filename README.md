@@ -1,6 +1,6 @@
 # Hi there 👋🏻
 # My name is Milad Baghban 
-# I was born in shirvan (near Mashhad)
+# I was born in shirvan - Iran
 # I was born in 1993
 # I am Ph.D student 📚
 # My field of study is naval architecture in sea engineering 🌊 🚢
